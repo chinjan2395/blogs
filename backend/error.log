@@ -1,0 +1,1 @@
+[Sat Aug 27 22:51:48.026690 2016] [:error] [pid 6448] [client 127.0.0.1:46459] PHP Fatal error:  Class 'backend\\controllers\\CUploadedFile' not found in /var/www/html/blogs/backend/controllers/BlogsController.php on line 72
